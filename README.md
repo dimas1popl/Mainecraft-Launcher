@@ -5,4 +5,8 @@
 ненужна лицензия 
   
   
-для запуска progect запустите "start.bat"
+для запуска progect скачайте нужные зависимости
+
+"
+pip install -r requirements.txt
+"
