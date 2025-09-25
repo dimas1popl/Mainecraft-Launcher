@@ -5,8 +5,4 @@
 ненужна лицензия 
   
   
-для запуска проэкта нужно скачать его зависимости
- 
-"
-pip install customtkinter minecraft-launcher-lib pillow
-"
+для запуска progect запустите "start.bat"
